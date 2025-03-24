@@ -1,2 +1,73 @@
 @charset "UTF-8";
 
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Open Sans", sans-serif;
+}
+#page {
+    box-sizing: border-box;
+    width: 1120px;
+    margin: 48px auto 28px;
+}
+.red1 {
+    color: #E1624F;
+}
+.red2 {
+    color: #E1624F;
+    font-weight: bold;
+}
+img {
+    height: 350px;
+    width: 1120px;
+    border-radius: 28px;
+    padding: 48px 0px 20px 0px;
+}
+#Conheça {
+    padding: 40px 0px 24px 0px;
+}
+#Conheça img{
+    padding: 40px 0px 50px 0px;
+    height: 660px;
+}
+h1 {
+    padding-top: 8px;
+    font-size: 36px;
+}
+p {
+    padding-top: 4px;
+}
+#final {
+    text-align: center;
+}
+.lista {
+    font-weight: bold;
+    padding-top: 20px;
+}
+ul {
+    font-weight: bold;
+    padding-left: 24px;
+}
+.n p {
+    color: #0C51A7;
+}
+.n1 p {
+    color: #591B98;
+}
+.n2 p {
+    color: #E5245E;
+}
+.n3 p {
+    color: #E95E10;
+    padding-bottom: 40px;
+}
+footer {
+    text-align: center;
+    padding-bottom: 10px;
+}
+footer img {
+    height: 16px;
+    width: 16px;
+    vertical-align: -100%;
+}
+
